@@ -1,0 +1,18 @@
+# misc
+.DS_Store
+Thumbs.db
+db.json
+*.log
+
+# production
+build
+
+# typescript
+*.tsbuildinfo
+
+# ide
+.idea
+
+# project
+.env
+node_modules
